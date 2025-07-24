@@ -12,4 +12,6 @@
   show_on_mobile: false
 - title: News
   link: /news/
+- title: Blogs
+  link: /blogs/
   show_on_mobile: true
